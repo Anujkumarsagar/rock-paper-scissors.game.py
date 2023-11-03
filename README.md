@@ -1,5 +1,3 @@
-# rock-paper-scissors.game.py
-Certainly, here's a README for your Python Rock, Paper, Scissors game:
 
 # Rock, Paper, Scissors Game
 
